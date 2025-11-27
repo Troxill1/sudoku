@@ -1,0 +1,7 @@
+C:\Users\todor\Coding Projects\sudoku-board\sudoku-board\bin\Debug\sudoku-board.exe.config
+C:\Users\todor\Coding Projects\sudoku-board\sudoku-board\bin\Debug\sudoku-board.exe
+C:\Users\todor\Coding Projects\sudoku-board\sudoku-board\bin\Debug\sudoku-board.pdb
+C:\Users\todor\Coding Projects\sudoku-board\sudoku-board\obj\Debug\sudoku-board.csproj.AssemblyReference.cache
+C:\Users\todor\Coding Projects\sudoku-board\sudoku-board\obj\Debug\sudoku-board.csproj.CoreCompileInputs.cache
+C:\Users\todor\Coding Projects\sudoku-board\sudoku-board\obj\Debug\sudoku-board.exe
+C:\Users\todor\Coding Projects\sudoku-board\sudoku-board\obj\Debug\sudoku-board.pdb
